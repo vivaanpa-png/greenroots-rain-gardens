@@ -1,0 +1,11 @@
+parcel_id,address,owner_type,parcel_sqft,impervious_sqft,available_sqft,priority
+CHE-1000,197 Broadway,public,6164,3238,1212,medium
+CHE-1001,45 Washington Ave,private,17070,8759,3103,high
+CHE-1002,124 Bellingham St,private,6873,5425,361,low
+CHE-1003,123 Chester Ave,public,7054,4951,754,low
+CHE-1004,302 Marlborough St,private,21979,14213,3232,high
+CHE-1005,106 Hawthorn St,private,14844,7957,2950,medium
+CHE-1006,264 Shurtleff St,public,7114,4962,963,low
+CHE-1007,195 Cary Ave,private,23587,15637,4526,high
+CHE-1008,263 Spencer Ave,private,18997,10042,2866,medium
+CHE-1009,272 Everett Ave,public,21870,15596,1438,medium
