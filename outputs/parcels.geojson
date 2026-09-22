@@ -1,0 +1,395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "CHE-1000",
+        "address": "197 Broadway",
+        "owner_type": "public",
+        "parcel_sqft": 6164,
+        "impervious_sqft": 3238,
+        "available_sqft": 1212,
+        "priority": "medium"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.044228,
+              42.386414
+            ],
+            [
+              -71.043978,
+              42.386414
+            ],
+            [
+              -71.043978,
+              42.386664
+            ],
+            [
+              -71.044228,
+              42.386664
+            ],
+            [
+              -71.044228,
+              42.386414
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "CHE-1001",
+        "address": "45 Washington Ave",
+        "owner_type": "private",
+        "parcel_sqft": 17070,
+        "impervious_sqft": 8759,
+        "available_sqft": 3103,
+        "priority": "high"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.038013,
+              42.398555
+            ],
+            [
+              -71.037763,
+              42.398555
+            ],
+            [
+              -71.037763,
+              42.398805
+            ],
+            [
+              -71.038013,
+              42.398805
+            ],
+            [
+              -71.038013,
+              42.398555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "CHE-1002",
+        "address": "124 Bellingham St",
+        "owner_type": "private",
+        "parcel_sqft": 6873,
+        "impervious_sqft": 5425,
+        "available_sqft": 361,
+        "priority": "low"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.046224,
+              42.392817
+            ],
+            [
+              -71.045974,
+              42.392817
+            ],
+            [
+              -71.045974,
+              42.393067
+            ],
+            [
+              -71.046224,
+              42.393067
+            ],
+            [
+              -71.046224,
+              42.392817
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "CHE-1003",
+        "address": "123 Chester Ave",
+        "owner_type": "public",
+        "parcel_sqft": 7054,
+        "impervious_sqft": 4951,
+        "available_sqft": 754,
+        "priority": "low"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.036865,
+              42.393328
+            ],
+            [
+              -71.036615,
+              42.393328
+            ],
+            [
+              -71.036615,
+              42.393578
+            ],
+            [
+              -71.036865,
+              42.393578
+            ],
+            [
+              -71.036865,
+              42.393328
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "CHE-1004",
+        "address": "302 Marlborough St",
+        "owner_type": "private",
+        "parcel_sqft": 21979,
+        "impervious_sqft": 14213,
+        "available_sqft": 3232,
+        "priority": "high"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.050882,
+              42.397735
+            ],
+            [
+              -71.050632,
+              42.397735
+            ],
+            [
+              -71.050632,
+              42.397985
+            ],
+            [
+              -71.050882,
+              42.397985
+            ],
+            [
+              -71.050882,
+              42.397735
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "CHE-1005",
+        "address": "106 Hawthorn St",
+        "owner_type": "private",
+        "parcel_sqft": 14844,
+        "impervious_sqft": 7957,
+        "available_sqft": 2950,
+        "priority": "medium"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.044596,
+              42.397058
+            ],
+            [
+              -71.044346,
+              42.397058
+            ],
+            [
+              -71.044346,
+              42.397308
+            ],
+            [
+              -71.044596,
+              42.397308
+            ],
+            [
+              -71.044596,
+              42.397058
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "CHE-1006",
+        "address": "264 Shurtleff St",
+        "owner_type": "public",
+        "parcel_sqft": 7114,
+        "impervious_sqft": 4962,
+        "available_sqft": 963,
+        "priority": "low"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.043062,
+              42.392764
+            ],
+            [
+              -71.042812,
+              42.392764
+            ],
+            [
+              -71.042812,
+              42.393014
+            ],
+            [
+              -71.043062,
+              42.393014
+            ],
+            [
+              -71.043062,
+              42.392764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "CHE-1007",
+        "address": "195 Cary Ave",
+        "owner_type": "private",
+        "parcel_sqft": 23587,
+        "impervious_sqft": 15637,
+        "available_sqft": 4526,
+        "priority": "high"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.03567,
+              42.390841
+            ],
+            [
+              -71.03542,
+              42.390841
+            ],
+            [
+              -71.03542,
+              42.391091
+            ],
+            [
+              -71.03567,
+              42.391091
+            ],
+            [
+              -71.03567,
+              42.390841
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "CHE-1008",
+        "address": "263 Spencer Ave",
+        "owner_type": "private",
+        "parcel_sqft": 18997,
+        "impervious_sqft": 10042,
+        "available_sqft": 2866,
+        "priority": "medium"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.044806,
+              42.39671
+            ],
+            [
+              -71.044556,
+              42.39671
+            ],
+            [
+              -71.044556,
+              42.39696
+            ],
+            [
+              -71.044806,
+              42.39696
+            ],
+            [
+              -71.044806,
+              42.39671
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "CHE-1009",
+        "address": "272 Everett Ave",
+        "owner_type": "public",
+        "parcel_sqft": 21870,
+        "impervious_sqft": 15596,
+        "available_sqft": 1438,
+        "priority": "medium"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.030997,
+              42.395671
+            ],
+            [
+              -71.030747,
+              42.395671
+            ],
+            [
+              -71.030747,
+              42.395921
+            ],
+            [
+              -71.030997,
+              42.395921
+            ],
+            [
+              -71.030997,
+              42.395671
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
