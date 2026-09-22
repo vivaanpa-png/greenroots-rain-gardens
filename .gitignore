@@ -1,0 +1,9 @@
+data/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.tif
+__pycache__
+.venv
+.DS_Store
